@@ -1,0 +1,12 @@
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\bin\Debug\net8.0\Settings.deps.json
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\bin\Debug\net8.0\Settings.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\bin\Debug\net8.0\Settings.pdb
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\Settings.GeneratedMSBuildEditorConfig.editorconfig
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\Settings.AssemblyInfoInputs.cache
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\Settings.AssemblyInfo.cs
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\Settings.csproj.CoreCompileInputs.cache
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\Settings.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\refint\Settings.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\Settings.pdb
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\ref\Settings.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\obj\Debug\net8.0\Settings.csproj.AssemblyReference.cache

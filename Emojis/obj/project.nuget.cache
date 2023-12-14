@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MO+Fq4bWoKvD9u8KVOJUHrooWzZxc70NpBLofH/qG9EMbR2DKWCViMzlzCcdZw25BWjM9+3KwZXF0lYO1WsgvQ==",
+  "success": true,
+  "projectFilePath": "E:\\FILES\\GENERAL-PURPOSE\\PROJECTS\\PROGRAMMING\\Source - Visual Studio\\Author Apps\\DotPostBuilder\\Emojis\\Emojis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

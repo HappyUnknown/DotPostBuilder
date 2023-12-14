@@ -1,0 +1,12 @@
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\bin\Debug\net8.0\Emojis.deps.json
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\bin\Debug\net8.0\Emojis.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\bin\Debug\net8.0\Emojis.pdb
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\Emojis.GeneratedMSBuildEditorConfig.editorconfig
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\Emojis.AssemblyInfoInputs.cache
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\Emojis.AssemblyInfo.cs
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\Emojis.csproj.CoreCompileInputs.cache
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\Emojis.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\refint\Emojis.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\Emojis.pdb
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\ref\Emojis.dll
+E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\obj\Debug\net8.0\Emojis.csproj.AssemblyReference.cache
