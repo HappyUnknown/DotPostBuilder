@@ -38,6 +38,23 @@ namespace Settings
         {
             return BaseSettings.EditSetting(appDataFolder, postFileName, emojiID.ToString(), settingValue);
         }
+        public static string GetStoredPostPath(string appDataFolder)
+        {
+            string mainDir = appDataFolder;
+            string postfn = AppSettings.POST_DEFAULT_PATH;
+
+            string storedPath = AppSettings.GetPostPath(mainDir, postfn);
+            string? storedDir = Path.GetDirectoryName(storedPath);
+            string storedPostFile = Path.GetFileName(storedPath);
+
+            if (storedPostFile != BaseSettings.EMPTY_VALUE && !string.IsNullOrEmpty(storedDir))
+            {
+                mainDir = storedDir;
+                postfn = storedPostFile;
+            }
+
+            return Path.Combine(mainDir, postfn);
+        }
         #region Custom simplication methods
         #region GET
         public static string GetTitleEmoji(string appDataFolder, string postFileName)
@@ -116,7 +133,7 @@ namespace Settings
         public static void SetProcessorEmoji(string appDataFolder, string postFileName, string processorEmoji)
         {
             if (!Exists(appDataFolder, postFileName, PostEmojis.ProcessorEmojiSetting))
-                AddSetting(appDataFolder, postFileName,PostEmojis.ProcessorEmojiSetting, processorEmoji);
+                AddSetting(appDataFolder, postFileName, PostEmojis.ProcessorEmojiSetting, processorEmoji);
             else
                 EditSetting(appDataFolder, postFileName, PostEmojis.ProcessorEmojiSetting, processorEmoji);
 

@@ -155,7 +155,7 @@ namespace DotPostBuilder
             dpPublishDate.Date = DateOperations.GetDefaultDate();
             dpStartDate.Date = DateOperations.GetDefaultDate();
 
-            RestorePostEmojis();
+            SaveDefaultPostEmojis();
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
@@ -382,25 +382,31 @@ namespace DotPostBuilder
         void SaveDefaultPostEmojis()
         {
             string mainDir = FileSystem.Current.AppDataDirectory;
-            string postfn = "postSettings.txt";
+            string postPath = PostDataSettings.GetStoredPostPath(mainDir);
 
-            AppSettings.SetPostPath(mainDir, "settings.txt", postfn);
-            DisplayAlert("Settings path", mainDir, "OK");
+            string? dir = Path.GetDirectoryName(postPath);
+            string filename = Path.GetFileName(postPath);
+            if (string.IsNullOrEmpty(dir) || string.IsNullOrEmpty(filename))
+            {
+                filename = postPath;
+                dir = mainDir;
+            }
+
             try
             {
                 ////Minimal hierarchy tesing code
                 //List<KeyValuePair<Settings.Settings.SettingDictionary, string>> settingLines = Settings.Settings.ReadSettings(mainDir);
                 //settingLines.Add(new KeyValuePair<Settings.Settings.SettingDictionary, string>(Settings.Settings.SettingDictionary.TitleEmojiSetting, "🎬"));
                 //Settings.Settings.WriteSettings(mainDir, settingLines);
-                PostDataSettings.SetTitleEmoji(mainDir, postfn, "🎬");
-                PostDataSettings.SetEpisodeEmoji(mainDir, postfn, "📼");
-                PostDataSettings.SetStudioEmoji(mainDir, postfn, "📡");
-                PostDataSettings.SetDateEmoji(mainDir, postfn, "📅");
-                PostDataSettings.SetTranslatorEmoji(mainDir, postfn, "📄");
-                PostDataSettings.SetProcessorEmoji(mainDir, postfn, "🎧");
-                PostDataSettings.SetActorEmoji(mainDir, postfn, "🎙");
-                PostDataSettings.SetWatchLinkEmoji(mainDir, postfn, "📺");
-                PostDataSettings.SetCommentEmoji(mainDir, postfn, "💬");
+                PostDataSettings.SetTitleEmoji(dir, filename, "🎬");
+                PostDataSettings.SetEpisodeEmoji(dir, filename, "📼");
+                PostDataSettings.SetStudioEmoji(dir, filename, "📡");
+                PostDataSettings.SetDateEmoji(dir, filename, "📅");
+                PostDataSettings.SetTranslatorEmoji(mainDir, filename, "📄");
+                PostDataSettings.SetProcessorEmoji(mainDir, filename, "🎧");
+                PostDataSettings.SetActorEmoji(mainDir, filename, "🎙");
+                PostDataSettings.SetWatchLinkEmoji(mainDir, filename, "📺");
+                PostDataSettings.SetCommentEmoji(mainDir, filename, "💬");
             }
             catch (Exception ex)
             {
@@ -410,28 +416,45 @@ namespace DotPostBuilder
         void RestorePostEmojis()
         {
             string mainDir = FileSystem.Current.AppDataDirectory;
-            string postfn = "postSettings.txt";
-            DisplayAlert("Settings path", mainDir, "OK");
+
+            string postPath = PostDataSettings.GetStoredPostPath(mainDir);
+
+            string dir = Path.GetDirectoryName(postPath).ToString();
+            string filename = Path.GetFileName(postPath);
+
+            DisplayAlert("Stored path", Path.Combine(dir, filename), "ok");
             try
             {
-                tbTitleEmoji.Text = PostDataSettings.GetTitleEmoji(mainDir, postfn);
-                tbEpisodeNameEmoji.Text = PostDataSettings.GetEpisodeEmoji(mainDir, postfn);
-                tbStudioEmoji.Text = PostDataSettings.GetStudioEmoji(mainDir, postfn);
-                tbDateEmoji.Text = PostDataSettings.GetDateEmoji(mainDir, postfn);
-                tbTranslatorEmoji.Text = PostDataSettings.GetTranslatorEmoji(mainDir, postfn);
-                tbProcessorEmoji.Text = PostDataSettings.GetProcessorEmoji(mainDir, postfn);
-                tbActorEmoji.Text = PostDataSettings.GetActorEmoji(mainDir, postfn);
-                tbWatchEmoji.Text = PostDataSettings.GetWatchLinkEmoji(mainDir, postfn);
-                tbCommentEmoji.Text = PostDataSettings.GetCommentEmoji(mainDir, postfn);
+                tbTitleEmoji.Text = PostDataSettings.GetTitleEmoji(dir, filename);
+                tbEpisodeNameEmoji.Text = PostDataSettings.GetEpisodeEmoji(dir, filename);
+                tbStudioEmoji.Text = PostDataSettings.GetStudioEmoji(dir, filename);
+                tbDateEmoji.Text = PostDataSettings.GetDateEmoji(dir, filename);
+                tbTranslatorEmoji.Text = PostDataSettings.GetTranslatorEmoji(dir, filename);
+                tbProcessorEmoji.Text = PostDataSettings.GetProcessorEmoji(dir, filename);
+                tbActorEmoji.Text = PostDataSettings.GetActorEmoji(dir, filename);
+                tbWatchEmoji.Text = PostDataSettings.GetWatchLinkEmoji(dir, filename);
+                tbCommentEmoji.Text = PostDataSettings.GetCommentEmoji(dir, filename);
             }
             catch (Exception ex)
             {
                 DisplayAlert("Error on setting reading", ex.Message, "OK");
             }
         }
-        private void btnChooseTemplate_Clicked(object sender, EventArgs e)
+        private async void btnChooseTemplate_Clicked(object sender, EventArgs e)
         {
 
+            // SEPARATE LOAD FUNCTION AND USE ON CHANGE
+
+            string mainDir = FileSystem.Current.AppDataDirectory;
+            string settingsfn = "settings.txt";
+            PickOptions options = new PickOptions();
+            var result = await FilePicker.PickAsync(options);
+            if (result != null)
+            {
+                await DisplayAlert("You picked a file", result.FullPath, "Ok");
+                AppSettings.SetPostPath(mainDir, settingsfn, result.FullPath);
+                RestorePostEmojis();
+            }
         }
         private void btnGeneratePost_Clicked(object sender, EventArgs e)
         {
@@ -439,7 +462,8 @@ namespace DotPostBuilder
             string postText = post.ToString();
             tbPostText.Text = postText;
 
-            SaveDefaultPostEmojis();
+            RestorePostEmojis();
+            //SaveDefaultPostEmojis();
 
             //if (!File.Exists(sourceFile))
             //    File.Create(sourceFile).Close();

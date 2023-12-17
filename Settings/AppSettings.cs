@@ -9,10 +9,20 @@ namespace Settings
 {
     public static class AppSettings
     {
+        public const string SETTINGS_DEFAULT_PATH = "settings.txt";
+        public const string POST_DEFAULT_PATH = "postSettings.txt";
         public enum SettingList
         {
             None = 0,
             PostPath
+        }
+        public static string GetSettingsPath(string appDataFolder)
+        {
+            return BaseSettings.GetAppDataFilePath(appDataFolder, SETTINGS_DEFAULT_PATH);
+        }
+        public static string GetPostPath(string appDataFolder)
+        {
+            return BaseSettings.GetAppDataFilePath(appDataFolder, POST_DEFAULT_PATH);
         }
         public static void AddSetting(string appDataFolder, string filename, SettingList settingID, string settingValue)
         {
@@ -32,9 +42,9 @@ namespace Settings
             return keyValue.Value;
         }
         #region GET
-        public static string GetPostPath(string appDataFolder, string filename)
+        public static string GetPostPath(string appDataFolder, string settingsFileName)
         {
-            return GetSettingValue(appDataFolder, filename, SettingList.PostPath);
+            return GetSettingValue(appDataFolder, settingsFileName, SettingList.PostPath);
         }
         public static void SetPostPath(string appDataFolder, string filename, string settingValue)
         {
@@ -43,6 +53,10 @@ namespace Settings
                 BaseSettings.AddSetting(appDataFolder, filename, SettingList.PostPath.ToString(), settingValue);
             else
                 BaseSettings.EditSetting(appDataFolder, filename, SettingList.PostPath.ToString(), settingValue);
+        }
+        public static bool Exists(string appDataFolder, string filename, SettingList settingID)
+        {
+            return BaseSettings.Exists(appDataFolder, filename, settingID.ToString());
         }
         #endregion
     }

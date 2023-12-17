@@ -20,7 +20,7 @@
                     <ColumnDefinition/>
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
-                <Button x:Name="btnChooseTemplate" Text="Choose template" Clicked="btnChooseTemplate_Clicked"/>
+                <Button x:Name="btnChoosePost" Text="Choose template" Clicked="btnChooseTemplate_Clicked"/>
             </Grid>
             <Grid>
                 <Grid.RowDefinitions>

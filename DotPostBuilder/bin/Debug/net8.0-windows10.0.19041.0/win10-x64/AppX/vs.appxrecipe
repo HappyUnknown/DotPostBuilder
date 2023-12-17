@@ -29,25 +29,25 @@
     <AppXManifest Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-14T17:37:28.979</Modified>
+      <Modified>2023-12-17T14:00:55.040</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-14T17:37:28.832</Modified>
+      <Modified>2023-12-17T13:50:07.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DotPostBuilder.runtimeconfig.json">
       <PackagePath>DotPostBuilder.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-13T11:34:41.731</Modified>
+      <Modified>2023-12-14T21:13:23.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DotPostBuilder.dll">
       <PackagePath>DotPostBuilder.dll</PackagePath>
-      <Modified>2023-12-14T17:37:27.710</Modified>
+      <Modified>2023-12-17T14:00:54.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DotPostBuilder.exe</PackagePath>
-      <Modified>2023-12-14T17:37:27.807</Modified>
+      <Modified>2023-12-17T14:00:54.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.538</Modified>
+      <Modified>2023-12-14T21:13:21.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.551</Modified>
+      <Modified>2023-12-14T21:13:21.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.568</Modified>
+      <Modified>2023-12-14T21:13:21.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.595</Modified>
+      <Modified>2023-12-14T21:13:21.961</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.694</Modified>
+      <Modified>2023-12-14T21:13:22.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,211 +83,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-20T22:12:09.734</Modified>
+      <Modified>2023-12-14T21:13:22.106</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:10.066</Modified>
+      <Modified>2023-12-14T21:13:22.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:10.084</Modified>
+      <Modified>2023-12-14T21:13:22.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:10.100</Modified>
+      <Modified>2023-12-14T21:13:22.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:10.126</Modified>
+      <Modified>2023-12-14T21:13:22.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:10.228</Modified>
+      <Modified>2023-12-14T21:13:22.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.819</Modified>
+      <Modified>2023-12-14T21:13:22.199</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.823</Modified>
+      <Modified>2023-12-14T21:13:22.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.841</Modified>
+      <Modified>2023-12-14T21:13:22.220</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.827</Modified>
+      <Modified>2023-12-14T21:13:22.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.831</Modified>
+      <Modified>2023-12-14T21:13:22.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.794</Modified>
+      <Modified>2023-12-14T21:13:22.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.798</Modified>
+      <Modified>2023-12-14T21:13:22.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.815</Modified>
+      <Modified>2023-12-14T21:13:22.195</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.801</Modified>
+      <Modified>2023-12-14T21:13:22.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.805</Modified>
+      <Modified>2023-12-14T21:13:22.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.743</Modified>
+      <Modified>2023-12-14T21:13:22.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.747</Modified>
+      <Modified>2023-12-14T21:13:22.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.751</Modified>
+      <Modified>2023-12-14T21:13:22.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.756</Modified>
+      <Modified>2023-12-14T21:13:22.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.764</Modified>
+      <Modified>2023-12-14T21:13:22.139</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.768</Modified>
+      <Modified>2023-12-14T21:13:22.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.771</Modified>
+      <Modified>2023-12-14T21:13:22.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.790</Modified>
+      <Modified>2023-12-14T21:13:22.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.776</Modified>
+      <Modified>2023-12-14T21:13:22.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.780</Modified>
+      <Modified>2023-12-14T21:13:22.158</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.903</Modified>
+      <Modified>2023-12-14T21:13:22.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.909</Modified>
+      <Modified>2023-12-14T21:13:22.293</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.918</Modified>
+      <Modified>2023-12-14T21:13:22.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.930</Modified>
+      <Modified>2023-12-14T21:13:22.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.955</Modified>
+      <Modified>2023-12-14T21:13:22.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.871</Modified>
+      <Modified>2023-12-14T21:13:22.253</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.875</Modified>
+      <Modified>2023-12-14T21:13:22.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.880</Modified>
+      <Modified>2023-12-14T21:13:22.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.885</Modified>
+      <Modified>2023-12-14T21:13:22.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.897</Modified>
+      <Modified>2023-12-14T21:13:22.280</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.846</Modified>
+      <Modified>2023-12-14T21:13:22.224</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.850</Modified>
+      <Modified>2023-12-14T21:13:22.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.854</Modified>
+      <Modified>2023-12-14T21:13:22.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.859</Modified>
+      <Modified>2023-12-14T21:13:22.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.866</Modified>
+      <Modified>2023-12-14T21:13:22.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.963</Modified>
+      <Modified>2023-12-14T21:13:22.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.973</Modified>
+      <Modified>2023-12-14T21:13:22.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.985</Modified>
+      <Modified>2023-12-14T21:13:22.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:10.003</Modified>
+      <Modified>2023-12-14T21:13:22.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:10.053</Modified>
+      <Modified>2023-12-14T21:13:22.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.736</Modified>
+      <Modified>2023-12-14T21:13:22.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.744</Modified>
+      <Modified>2023-12-14T21:13:22.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.755</Modified>
+      <Modified>2023-12-14T21:13:22.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.772</Modified>
+      <Modified>2023-12-14T21:13:22.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-20T22:12:09.830</Modified>
+      <Modified>2023-12-14T21:13:22.194</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\DotPostBuilder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DotPostBuilder.deps.json">
       <PackagePath>DotPostBuilder.deps.json</PackagePath>
-      <Modified>2023-12-13T11:34:41.633</Modified>
+      <Modified>2023-12-14T21:13:23.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Acer\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -575,11 +575,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Emojis\bin\Debug\net8.0\Emojis.dll">
       <PackagePath>Emojis.dll</PackagePath>
-      <Modified>2023-12-13T11:34:35.220</Modified>
+      <Modified>2023-12-14T21:13:17.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\FILES\GENERAL-PURPOSE\PROJECTS\PROGRAMMING\Source - Visual Studio\Author Apps\DotPostBuilder\Settings\bin\Debug\net8.0\Settings.dll">
       <PackagePath>Settings.dll</PackagePath>
-      <Modified>2023-12-14T17:37:22.597</Modified>
+      <Modified>2023-12-17T14:00:47.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Acer\.nuget\packages\microsoft.maui.controls.compatibility\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

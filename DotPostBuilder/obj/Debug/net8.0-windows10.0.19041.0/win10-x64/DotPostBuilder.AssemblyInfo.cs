@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotPostBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6bb0a4d15b934e65621f08fce15b36f07842a356")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotPostBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotPostBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

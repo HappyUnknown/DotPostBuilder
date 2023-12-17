@@ -10,14 +10,6 @@ namespace Settings
     public static class BaseSettings
     {
         /// <summary>
-        /// Initial app directory for custom settings
-        /// </summary>
-        public const string INIT_DIR = "init";
-        /// <summary>
-        /// Settings file name
-        /// </summary>
-        public const string DEFAULT_POST_SETTINGS = "postSettings.txt";
-        /// <summary>
         /// Default settings value
         /// </summary>
         public const string EMPTY_VALUE = "EMPTY_VALUE";
@@ -41,7 +33,7 @@ namespace Settings
         /// <returns>Verified settings path</returns>
         public static string GetAppDataFilePath(string appDataFolder, string filename)
         {
-            string appDataInitPath = Path.Combine(appDataFolder, INIT_DIR);
+            string appDataInitPath = Path.Combine(appDataFolder);
             if (!Directory.Exists(appDataInitPath)) Directory.CreateDirectory(appDataInitPath);
             string settingsPath = Path.Combine(appDataInitPath, filename);
             if (!File.Exists(settingsPath)) File.Create(settingsPath).Close();
